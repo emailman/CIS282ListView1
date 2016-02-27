@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">List View 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="display_text">"You selected "</string>
+
+    <string-array name="fruits">
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Orange</item>
+        <item>Grapes</item>
+        <item>Banana</item>
+    </string-array>
+
+</resources>
